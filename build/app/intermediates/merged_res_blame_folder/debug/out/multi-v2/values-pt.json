@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dsheehan/StudioProjects/user_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/dsheehan/.gradle/caches/transforms-3/57b7199bf0744f1bfd7b3dfbef291149/transformed/core-1.9.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                },
+                {
+                    "source": "/Users/dsheehan/.gradle/caches/transforms-3/b28632eee6be296673b0aaf9b4c91cdd/transformed/browser-1.4.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                }
+            ]
+        }
+    ]
+}
