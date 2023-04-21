@@ -1,4 +1,4 @@
-#Thu Apr 20 20:38:22 CDT 2023
-base.0=/Users/dsheehan/StudioProjects/user_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Apr 21 13:16:42 CDT 2023
+base.0=C\:\\Users\\arams\\RaiderRides---User\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
